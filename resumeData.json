@@ -1,0 +1,84 @@
+{
+  "main": {
+    "name":" I'm Yrgken koutsi. ",
+    "description":"I'm a passionate developer but more importantly I'm passionate about technology",
+    "image":"profilepic.jpg",
+    "bio":"I am a recent computer science graduate and self-taught software developer. I enjoy building cool web applications using react and firebase, I also enjoy python for machine learning and deep learning methods mostly for image recognition and image detection techniques. When I am not coding you will find me spending time with my family or going for hiking or playing video games.",
+    "contactmessage":"Contact me by filling the form below.",
+    "email": "koutsiyrgken@gmail.com",
+    "address":"",
+    "website": "https://programmingharbor.com/",
+    "resumedownload":"", 
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yrgken-koutsi-990265161/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/YrgkenKoutsi",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Some of my skills are listed below:",
+    "education":[
+      {
+        "school":"University",
+        "degree":"Bachelor of Computer Science Honours",
+        "graduated":"August 2020",
+        "description":"Some of the skilled I developed throught my degree range from web development, mobile applications where I was exposed through technologies such as html,css,javascript,php,sql, and etc. To Big Data Analytics, Computer Visions which invloved technologies in tensorflow, keras, cv2, pandas, numpy, csv, linux, hadoop distribution and etc."
+      }
+    ],
+    "work":[
+      {
+        "company":"The University of Gloucestershire",
+        "title":"Lecturer Assistant in web development",
+        "years":"March 2018 - 2020",
+        "description":"I assisted 1st year students in debugging their code during workshops and resolving any issues that they may had or explain technologies that they did not fully understand during their lectures."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"80%"
+      },
+      {
+        "name":"Java",
+        "level":"70%"
+      },
+      {
+        "name":"HTML",
+        "level":"70%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"React-Js",
+        "level":"50%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Canadian Wanderlust",
+        "category":"My Travel Blog for my post-university travels",
+        "image":"canadian-wanderlust.jpg",
+        "url":"https://www.canadianwanderlust.com"
+      }
+    ]
+  }
+}
