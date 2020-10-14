@@ -8,7 +8,7 @@
     "email": "koutsiyrgken@gmail.com",
     "address":"",
     "website": "https://programmingharbor.com/",
-    "resumedownload":"", 
+    "resumedownload":"/resume/Yrgken_Koutsi_Resume.pdf", 
     "social":[
       {
         "name":"linkedin",
@@ -66,7 +66,7 @@
         "level":"70%"
       },
       {
-        "name":"React-Js",
+        "name":"ReactJs",
         "level":"50%"
       }
     ]
