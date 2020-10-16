@@ -76,13 +76,13 @@
       {
         "title":"LadderNet: Multi-path networks based on U-Net for medical image segmentation",
         "category":"Undergraduate Dissertation",
-        "image":"Laddernet.png",
+        "image":"Laddernet.jpg",
         "url":"https://github.com/YrgkenKoutsi/LadderNet-Implementation"
       },
       {
         "title":"A Simple flappy bird A.I",
         "category":"Self-Learning Project",
-        "image":"Flappy.png",
+        "image":"Flappy.jpg",
         "url":"https://github.com/YrgkenKoutsi/Simple-FlappyBird-AI"
       }
     ]
