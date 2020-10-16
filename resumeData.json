@@ -74,10 +74,16 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"LadderNet: Multi-path networks based on U-Net for medical image segmentation",
+        "category":"Undergraduate Dissertation",
+        "image":"Laddernet.png",
+        "url":"https://github.com/YrgkenKoutsi/LadderNet-Implementation"
+      },
+      {
+        "title":"A Simple flappy bird A.I",
+        "category":"Self-Learning Project",
+        "image":"Flappy.png",
+        "url":"https://github.com/YrgkenKoutsi/Simple-FlappyBird-AI"
       }
     ]
   }
